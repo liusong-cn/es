@@ -1,0 +1,137 @@
+21:59:56.732 [restartedMain] INFO  c.y.es.EsApplication - [logStarting,55] - Starting EsApplication on DESKTOP-O8DFN4L with PID 16368 (D:\dev\es\target\classes started by Administrator in D:\dev\es)
+21:59:56.736 [restartedMain] INFO  c.y.es.EsApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+21:59:57.631 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:59:57.632 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:59:57.632 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+21:59:57.635 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+21:59:57.635 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+21:59:57.636 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+21:59:57.654 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+21:59:57.724 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:59:57.770 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:05:18.307 [restartedMain] INFO  c.y.es.EsApplication - [logStarting,55] - Starting EsApplication on DESKTOP-O8DFN4L with PID 15340 (D:\dev\es\target\classes started by Administrator in D:\dev\es)
+22:05:18.309 [restartedMain] INFO  c.y.es.EsApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+22:05:19.147 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:05:19.148 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:05:19.148 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+22:05:19.150 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+22:05:19.150 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+22:05:19.150 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+22:05:19.153 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+22:05:19.220 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:05:19.418 [restartedMain] INFO  i.s.c.AbstractJestClient - [setServers,60] - Setting server pool to a list of 1 servers: [http://47.108.133.131:9200]
+22:05:19.420 [restartedMain] INFO  i.s.c.JestClientFactory - [getConnectionManager,224] - Using multi thread/connection supporting pooling connection manager
+22:05:19.476 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,68] - Using default GSON instance
+22:05:19.476 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,85] - Node Discovery disabled...
+22:05:19.476 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,97] - Idle connection reaping disabled...
+22:05:19.901 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:05:19.928 [restartedMain] INFO  c.y.es.EsApplication - [logStarted,61] - Started EsApplication in 1.915 seconds (JVM running for 3.411)
+22:06:32.263 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:06:04.587 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1885] - {dataSource-0} closing ...
+23:06:13.063 [restartedMain] INFO  c.y.es.EsApplication - [logStarting,55] - Starting EsApplication on DESKTOP-O8DFN4L with PID 13352 (D:\dev\es\target\classes started by Administrator in D:\dev\es)
+23:06:13.066 [restartedMain] INFO  c.y.es.EsApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+23:06:13.919 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:06:13.919 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:06:13.920 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+23:06:13.922 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+23:06:13.922 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+23:06:13.922 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+23:06:13.925 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+23:06:13.992 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:06:14.123 [restartedMain] INFO  i.s.c.AbstractJestClient - [setServers,60] - Setting server pool to a list of 1 servers: [http://47.108.133.131:9200]
+23:06:14.125 [restartedMain] INFO  i.s.c.JestClientFactory - [getConnectionManager,224] - Using multi thread/connection supporting pooling connection manager
+23:06:14.181 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,68] - Using default GSON instance
+23:06:14.181 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,85] - Node Discovery disabled...
+23:06:14.181 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,97] - Idle connection reaping disabled...
+23:06:14.607 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:06:14.639 [restartedMain] INFO  c.y.es.EsApplication - [logStarted,61] - Started EsApplication in 1.872 seconds (JVM running for 3.288)
+23:06:40.266 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:07:19.362 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1885] - {dataSource-0} closing ...
+23:07:23.513 [restartedMain] INFO  c.y.es.EsApplication - [logStarting,55] - Starting EsApplication on DESKTOP-O8DFN4L with PID 14920 (D:\dev\es\target\classes started by Administrator in D:\dev\es)
+23:07:23.515 [restartedMain] INFO  c.y.es.EsApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+23:07:24.344 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:07:24.345 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:07:24.345 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+23:07:24.347 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+23:07:24.347 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+23:07:24.347 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+23:07:24.350 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+23:07:24.414 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:07:24.546 [restartedMain] INFO  i.s.c.AbstractJestClient - [setServers,60] - Setting server pool to a list of 1 servers: [http://47.108.133.131:9200]
+23:07:24.548 [restartedMain] INFO  i.s.c.JestClientFactory - [getConnectionManager,224] - Using multi thread/connection supporting pooling connection manager
+23:07:24.605 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,68] - Using default GSON instance
+23:07:24.605 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,85] - Node Discovery disabled...
+23:07:24.605 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,97] - Idle connection reaping disabled...
+23:07:25.066 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:07:25.099 [restartedMain] INFO  c.y.es.EsApplication - [logStarted,61] - Started EsApplication in 1.878 seconds (JVM running for 3.354)
+23:08:44.574 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:25:10.444 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,1885] - {dataSource-0} closing ...
+23:33:33.418 [restartedMain] INFO  c.y.es.EsApplication - [logStarting,55] - Starting EsApplication on DESKTOP-O8DFN4L with PID 11692 (D:\dev\es\target\classes started by Administrator in D:\dev\es)
+23:33:33.421 [restartedMain] INFO  c.y.es.EsApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+23:33:34.291 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:33:34.292 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:33:34.292 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+23:33:34.294 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+23:33:34.294 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+23:33:34.294 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+23:33:34.298 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+23:33:34.369 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:33:34.503 [restartedMain] INFO  i.s.c.AbstractJestClient - [setServers,60] - Setting server pool to a list of 1 servers: [http://47.108.133.131:9200]
+23:33:34.504 [restartedMain] INFO  i.s.c.JestClientFactory - [getConnectionManager,224] - Using multi thread/connection supporting pooling connection manager
+23:33:34.563 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,68] - Using default GSON instance
+23:33:34.564 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,85] - Node Discovery disabled...
+23:33:34.564 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,97] - Idle connection reaping disabled...
+23:33:34.970 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,1885] - {dataSource-0} closing ...
+23:33:34.973 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:34:08.868 [restartedMain] INFO  c.y.es.EsApplication - [logStarting,55] - Starting EsApplication on DESKTOP-O8DFN4L with PID 2212 (D:\dev\es\target\classes started by Administrator in D:\dev\es)
+23:34:08.871 [restartedMain] INFO  c.y.es.EsApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+23:34:09.771 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:34:09.772 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:34:09.772 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+23:34:09.774 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+23:34:09.774 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+23:34:09.774 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+23:34:09.777 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+23:34:09.849 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:34:09.983 [restartedMain] INFO  i.s.c.AbstractJestClient - [setServers,60] - Setting server pool to a list of 1 servers: [http://47.108.133.131:9200]
+23:34:09.985 [restartedMain] INFO  i.s.c.JestClientFactory - [getConnectionManager,224] - Using multi thread/connection supporting pooling connection manager
+23:34:10.047 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,68] - Using default GSON instance
+23:34:10.047 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,85] - Node Discovery disabled...
+23:34:10.048 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,97] - Idle connection reaping disabled...
+23:34:10.483 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,1885] - {dataSource-0} closing ...
+23:34:10.487 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:37:08.238 [restartedMain] INFO  c.y.es.EsApplication - [logStarting,55] - Starting EsApplication on DESKTOP-O8DFN4L with PID 14412 (D:\dev\es\target\classes started by Administrator in D:\dev\es)
+23:37:08.240 [restartedMain] INFO  c.y.es.EsApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+23:37:09.184 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:37:09.184 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:37:09.184 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+23:37:09.186 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+23:37:09.186 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+23:37:09.187 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+23:37:09.190 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+23:37:09.261 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:37:09.395 [restartedMain] INFO  i.s.c.AbstractJestClient - [setServers,60] - Setting server pool to a list of 1 servers: [http://47.108.133.131:9200]
+23:37:09.397 [restartedMain] INFO  i.s.c.JestClientFactory - [getConnectionManager,224] - Using multi thread/connection supporting pooling connection manager
+23:37:09.461 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,68] - Using default GSON instance
+23:37:09.461 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,85] - Node Discovery disabled...
+23:37:09.461 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,97] - Idle connection reaping disabled...
+23:37:09.863 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,1885] - {dataSource-0} closing ...
+23:37:09.865 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:40:05.283 [restartedMain] INFO  c.y.es.EsApplication - [logStarting,55] - Starting EsApplication on DESKTOP-O8DFN4L with PID 13400 (D:\dev\es\target\classes started by Administrator in D:\dev\es)
+23:40:05.285 [restartedMain] INFO  c.y.es.EsApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+23:40:06.131 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:40:06.131 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:40:06.131 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+23:40:06.133 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+23:40:06.133 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+23:40:06.133 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+23:40:06.137 [restartedMain] INFO  o.a.c.c.AprLifecycleListener - [log,173] - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+23:40:06.199 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:40:06.325 [restartedMain] INFO  i.s.c.AbstractJestClient - [setServers,60] - Setting server pool to a list of 1 servers: [http://47.108.133.131:9200]
+23:40:06.327 [restartedMain] INFO  i.s.c.JestClientFactory - [getConnectionManager,224] - Using multi thread/connection supporting pooling connection manager
+23:40:06.382 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,68] - Using default GSON instance
+23:40:06.382 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,85] - Node Discovery disabled...
+23:40:06.382 [restartedMain] INFO  i.s.c.JestClientFactory - [getObject,97] - Idle connection reaping disabled...
+23:40:06.883 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:40:06.918 [restartedMain] INFO  c.y.es.EsApplication - [logStarted,61] - Started EsApplication in 1.928 seconds (JVM running for 3.395)
+23:40:28.304 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
